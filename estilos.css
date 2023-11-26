@@ -85,3 +85,49 @@ header {
     width: 10rem;
     padding: 0,2rem;
 }
+
+footer{
+  
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: beige;
+        padding: 20px;
+}
+
+.logo img {
+    height: 100px;
+    margin: 30px;
+}
+
+
+.info{
+    text-align: center;
+}
+
+.info h3 {
+    font-family: 'Delicious Handrawn', cursive;
+    color: #cca352;
+    font-size: 22px;
+    margin: 10px;
+}
+
+.info ul {
+    list-style: none;
+   
+    
+}
+
+.info ul li {
+    margin-bottom: 5px;
+    color: #74610d;
+    font-style: italic;
+    
+    
+}
+
+.info ul li img {
+    height: 30px;
+    margin: 5px;
+    
+}
