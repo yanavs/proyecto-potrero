@@ -163,3 +163,27 @@ footer{
     background: rgb(189, 167, 43);
     color: white;
 }
+
+/* Noticias */
+
+
+.noticias{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.card {
+    margin: 25px;
+    position: relative;
+}
+.card-title{
+margin: 10px;
+
+}
+
+.card-text {
+    margin-bottom: 50px;
+    padding: 3%;
+}
+
